@@ -1,0 +1,6 @@
+@Gestional.Backend_HostAddress = http://localhost:5025
+
+GET {{Gestional.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
